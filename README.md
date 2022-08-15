@@ -5,10 +5,10 @@ Project : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sor
 
 [16,21,11,8,12,22] merge sort will be applied
 
-Steps: 
+Steps
 
-	       [16,21,11,8,12,22]
-      [16,21,11]	   [8,12,22]	     
+	    [16,21,11,8,12,22]
+    [16,21,11]	   [8,12,22]	     
   [16,21]    [11]       [8,12]    [22]
 [16]   [21]  [11]     [8]  [12]   [22]
   [16,21]       [8,11]      [12,22]
